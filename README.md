@@ -1,0 +1,2 @@
+# 52c1fa2405e1ff58-church-ministry-project-timeli
+church ministry professionals waste hours on wrestling with incompatible WordPress plugins that fight each other. This fixes that.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Church Ministry Project Timeline And Milestone — fully configured and ready
